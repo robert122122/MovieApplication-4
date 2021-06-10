@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\MovieApplication",
+    "\\MovieApplication\\Controllers",
+    "\\MovieApplication\\Data",
+    "\\MovieApplication\\Migrations",
+    "\\MovieApplication\\MovieApplicationContext",
+    "\\MovieApplication\\obj",
+    "\\MovieApplication\\Properties"
+  ],
+  "SelectedNode": "\\MoviesWebApplication.sln",
+  "PreviewInSolutionExplorer": false
+}
